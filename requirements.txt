@@ -1,5 +1,5 @@
 flask
-gunicorn
 alpaca-trade-api
 pytz
 requests
+gunicorn
