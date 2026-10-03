@@ -1,3 +1,4 @@
-from slv_cloud import run
-if __name__ == "__main__":
-    run()
+print("SLV Cloud ready - waiting for cron")
+import time
+while True:
+    time.sleep(3600)
